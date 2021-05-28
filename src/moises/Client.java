@@ -88,5 +88,5 @@ public class Client {
                 "Punts guanyats: " + bonificacions + "\n";
         return resultat;
     }
-
+    
 }
