@@ -38,4 +38,3 @@ public class Vehicle {
         this.categoria = categoria;
     }
 }
- 

@@ -36,4 +36,3 @@ public class Lloguer {
 	   this.vehicle = vehicle;
 	}
 }
- 

@@ -24,4 +24,5 @@ public class Main {
         cliente.afegeix(lloguerBasic3);
         System.out.println(cliente.informe());
     }
+    
 }
