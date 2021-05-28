@@ -67,5 +67,5 @@ public class Lloguer {
         }
     return bonificacions;
     }
-}
+} 
 	
